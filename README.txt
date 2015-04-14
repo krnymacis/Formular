@@ -1,0 +1,1 @@
+Php tøída slouící pro tvorbu jednoduchého formuláøe. Pøíklad pouití najdete v souboru priklad.php. Martin Krnáè I4
