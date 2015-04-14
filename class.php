@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * @author Martin Krnáč <krnymacis@gmail.com>
+ * @license free
+ * @version 1.0
+ * @example priklad.php
+ * @copyright (c) 2015, Martin Krnáč
+ */
 class formular {
     
     /**
